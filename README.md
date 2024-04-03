@@ -13,3 +13,6 @@ This main code is written entirely in python and requires python to run and exec
 * Then, run the app using the following command from the project root directory in the terminal : python3 app.py
 * Follow the instruction from the prompts from there.
 * You can also use Jupyter Notebook or PyCharm Professional to run our program.
+* More Information about this project in  final_report.pdf
+
+
